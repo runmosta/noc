@@ -11,6 +11,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/runmosta/Envs/noc-test/Scripts/activate",
+			"settings":
+			{
+				"buffer_size": 2197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 3795 files for \"taskbuster\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -57,17 +75,38 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/runmosta/noc_project",
-		"/C/Users/runmosta/noc_project/noc",
-		"/C/Users/runmosta/noc_project/noc/noc",
-		"/C/Users/runmosta/noc_project/noc/settings",
-		"/C/Users/runmosta/noc_project/requirements"
+		"/C/Users/runmosta/noc_project/noc/__pycache__",
+		"/C/Users/runmosta/noc_project/noc/templates",
+		"/C/Users/runmosta/noc_project/noc/templates/noc",
+		"/C/Users/runmosta/Envs",
+		"/C/Users/runmosta/Envs/noc-dev/Scripts",
+		"/C/Users/runmosta/Envs/noc-dev/Scripts/__pycache__",
+		"/C/Users/runmosta/Envs/noc-test/Lib",
+		"/C/Users/runmosta/Envs/noc-test/Scripts"
 	],
 	"file_history":
 	[
-		"/C/Users/runmosta/noc_project/noc/settings/testing.py",
-		"/C/Users/runmosta/noc_project/noc/settings/staging.py",
+		"/C/Users/runmosta/noc_project/noc/settings/development.py",
 		"/C/Users/runmosta/noc_project/noc/settings/production.py",
+		"/C/Users/runmosta/noc_project/noc/settings/staging.py",
+		"/C/Users/runmosta/noc_project/noc/settings/testing.py",
+		"/C/Users/runmosta/noc_project/noc/settings/base.py",
+		"/C/Users/runmosta/noc_project/noc/templates/base.html",
+		"/C/Users/runmosta/noc_project/noc/templates/noc/index.html",
+		"/C/Users/runmosta/noc_project/functional_tests/test_all_users.py",
+		"/C/Users/runmosta/noc_project/noc/static/css/main.css",
+		"/C/Users/runmosta/noc_project/noc/test.py",
+		"/C/Users/runmosta/noc_project/noc/index.html",
+		"/C/Users/runmosta/noc_project/noc/views.py",
+		"/C/Users/runmosta/noc_project/noc/urls.py",
+		"/C/Users/runmosta/noc_project/.gitignore",
+		"/C/Users/runmosta/noc_bck/base.py",
+		"/C/Users/runmosta/Envs/noc-dev/Scripts/activate.bat",
+		"/C/Users/runmosta/Envs/noc-test/Scripts/deactivate.bat",
+		"/C/Users/runmosta/Envs/noc-dev/Scripts/deactivate.bat",
+		"/C/Users/runmosta/Envs/noc-test/Scripts/activate.bat",
+		"/C/Users/runmosta/noc_project/noc.old/show_env.py",
+		"/C/Users/runmosta/noc_project/noc/settings/__init__.py",
 		"/C/Users/runmosta/noc_project/noc/settings/develoment.py",
 		"/C/Users/runmosta/noc_project/requirements/base.txt",
 		"/C/Users/runmosta/noc_project/functinal_tests/all_users.py",
@@ -93,13 +132,14 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 138.0,
 		"where_history":
 		[
+			"C:\\Users\\runmosta\\Envs\\noc-test"
 		]
 	},
 	"find_state":
@@ -107,6 +147,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"taskbuster"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -124,14 +165,80 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/runmosta/Envs/noc-test/Scripts/activate",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"input":
 	{
@@ -168,7 +275,7 @@
 	"project": "noc_project.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
